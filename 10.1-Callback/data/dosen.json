@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nama": "Rahadian K",
+        "email": "rianoktiomersaputra4@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "id": 2,
+        "nama": "Ummi",
+        "email": "zasvia@gmail.com",
+        "jurusan": "Farmasi",
+        "idDosenWali": 2
+    }
+]

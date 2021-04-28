@@ -1,0 +1,38 @@
+Single Thread = Urutan eksekusi kode yang dapat dilakukan secara bebas/independent satu sama lain
+
+ex:
+Thread 1 => Task-1 -> Task-2 -> Task-3
+
+Multi threaded
+ex:
+Thread 1 => Task-1 ->
+Thread 2 =>           Thread 2 ->
+Thread 3 =>                       Thread 3
+
+Blocking
+ex:
+Task-1 (not done) !=> Task-2
+
+Non-Blocking
+ex:
+Task-1 (not done) = Task-2
+
+Synchronous
+
+Asynchronous + Single-threaded = Concurrency
+Asynchronous + Multi-threaded = Parallelism
+
+Kesimpulan:
+Single vs Multi Thread => Dikerjakan oleh 1 thread atau banyak thread
+Blocking vs Non-Blocking => Teknik ngoding berkaitan I/O
+Synchronous vs Asynchronous => Teknik ngoding berkaitan HTTP request
+Concurrenct vs Parallel => Lingkungan eksekusi Task
+
+===========================================
+Javascript -> V8 Engine
+
+V8 Engine -> 
+- Heap -> Memory Allocation 
+- Stack -> Function Call & Execution Context
+
+

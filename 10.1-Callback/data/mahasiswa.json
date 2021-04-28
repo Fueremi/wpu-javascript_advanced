@@ -1,0 +1,16 @@
+[
+    {
+        "nama": "Rian Oktio Mersa Putra",
+        "nim": "14523281",
+        "email": "rianoktiomersaputra4@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Ulvi Zasvia",
+        "nim": "14500311",
+        "email": "zasvia@gmail.com",
+        "jurusan": "Farmasi",
+        "idDosenWali": 2
+    }
+]
